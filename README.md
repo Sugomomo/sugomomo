@@ -1,4 +1,11 @@
-## Hi there 👋 nice
+Hi there 👋 
+
+Currently, year 2 quant finance major in NUS, I am trying to upskill myself through own unique quant projects 
+
+Some interest: Probability, Aerospace (Military, Space related), Guitar 
+##
+
+
 
 <!--
 **Sugomomo/sugomomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
